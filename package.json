@@ -1,0 +1,30 @@
+{
+  "name": "paper-datatable",
+  "version": "1.0.0",
+  "description": "Material design data table.",
+  "main": "index.js",
+  "repository": "git@github.com:ppark482/paper-datatable.git",
+  "author": "David Mulder <david.mulder@ymail.com>",
+  "license": "http://www.gnu.org/licenses/gpl-3.0.en.html",
+  "dependencies": {
+    "@polymer/iron-form": "^0.0.3",
+    "@polymer/paper-checkbox": "^0.0.3",
+    "@polymer/paper-icon-button": "^0.0.3",
+    "@polymer/paper-item": "^0.0.3",
+    "@polymer/paper-material": "^0.0.3",
+    "@polymer/paper-styles": "^0.0.3",
+    "@polymer/paper-tooltip": "^0.0.3",
+    "@polymer/polymer": "^2.0.2",
+    "webcomponentsjs": "^1.0.2",
+    "whenever": "^0.1.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-component-page": "^0.0.3",
+    "@polymer/paper-card": "^0.0.3",
+    "@polymer/paper-dropdown-menu": "^0.0.3",
+    "@polymer/paper-input": "^0.0.3",
+    "@polymer/paper-menu": "^0.0.3",
+    "@polymer/paper-progress": "^0.0.3",
+    "web-component-tester": "^6.0.1"
+  }
+}
